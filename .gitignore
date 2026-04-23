@@ -51,6 +51,9 @@ trace_*.json
 .worktrees/
 .ironclaw/
 
+# Tobias personal dev directory
+tobias/
+
 # Python cache
 __pycache__/
 *.pyc
